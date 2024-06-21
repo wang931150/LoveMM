@@ -1,0 +1,49 @@
+{
+  "_$ver": 1,
+  "_$id": "gyoh57yr",
+  "_$type": "Box",
+  "name": "Box",
+  "width": 293,
+  "height": 341,
+  "_mouseState": 2,
+  "_$comp": [
+    {
+      "_$type": "4ad32e7c-98e0-4891-b01f-32f391648127",
+      "scriptPath": "../src/prefab/DropComponent.ts"
+    }
+  ],
+  "_$child": [
+    {
+      "_$id": "058f6w16",
+      "_$type": "Image",
+      "name": "Image",
+      "width": 293,
+      "height": 341,
+      "left": 0,
+      "right": 0,
+      "top": 0,
+      "bottom": 0,
+      "skin": "res://0c0c9394-9b15-45fe-b1e4-980edd6ee61a",
+      "color": "#ffffff"
+    },
+    {
+      "_$id": "rwc7yasz",
+      "_$var": true,
+      "_$type": "Button",
+      "name": "Button",
+      "width": 293,
+      "height": 341,
+      "_mouseState": 2,
+      "left": 0,
+      "right": 0,
+      "top": 0,
+      "bottom": 0,
+      "skin": "",
+      "label": "",
+      "labelSize": 115,
+      "labelColors": "#ffc68d,#ffc68d,#ffc68d",
+      "labelAlign": "center",
+      "labelVAlign": "middle"
+    }
+  ]
+}

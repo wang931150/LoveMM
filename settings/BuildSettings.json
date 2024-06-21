@@ -1,0 +1,16 @@
+{
+  "name": "LoveMM",
+  "outputPath": "H:\\GitHub",
+  "minifyJS": true,
+  "startupScene": "res://9b931ecf-fde9-44dd-acf3-15f8dc807965",
+  "includedScenes": [
+    "res://ac22bef0-99d1-47bc-abbd-1b4bf8b64408",
+    "res://9b931ecf-fde9-44dd-acf3-15f8dc807965"
+  ],
+  "alwaysIncluded": [
+    "scenes",
+    "resources",
+    "prefab",
+    "../src"
+  ]
+}
